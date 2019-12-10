@@ -11,4 +11,7 @@ Each assignment consists of Problem Statement and it's corresponding codes in R.
 The assignment basically requires us to find the central tendencies for the randomly generated numbers. We have the file named 1.r which has the final code which can be readily implemented. 
 
 #### Assignment 2
-The assignment basically requires us to plot different types of graphs for the data we are finding. We have the file named 2.r which has the final code which can be readily implemented. 
+The assignment basically requires us to plot different types of graphs for the data we are finding. We have the file named 2.r which has the final code which can be readily implemented.
+
+#### Assignment 3
+The assignment basically requires us to prove the Central Limit Theorem. We have the file named 3.r which has the final code which can be readily implemented. Furthermore, some data sets were chosen and then modelled and trained accordingly to as to fetch the required result.
