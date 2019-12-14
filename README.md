@@ -14,4 +14,9 @@ The assignment basically requires us to find the central tendencies for the rand
 The assignment basically requires us to plot different types of graphs for the data we are finding. We have the file named 2.r which has the final code which can be readily implemented.
 
 #### Assignment 3
-The assignment basically requires us to prove the Central Limit Theorem. We have the file named 3.r which has the final code which can be readily implemented. Furthermore, some data sets were chosen and then modelled and trained accordingly to as to fetch the required result.
+The assignment basically requires us to prove the Central Limit Theorem. We have the file named 3.r which has the final code which can be readily implemented. Furthermore, some data sets were chosen and then modelled and trained accordingly to as to fetch the required result. We have to import the ```.csv``` file provided to us and use that data to conduct the experiment.
+
+#### Assignment 4
+The assignment basically requires us to find Power of an experiments. We have the file named 4.r which has the final code which can be readily implemented. We have t ouse the concepts of Hypothsis Testing to calculate the power of the experiment. We have to import the ```.csv``` file provided to us and use that data to conduct the experiment.
+
+## Open for PR(s)
