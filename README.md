@@ -19,4 +19,6 @@ The assignment basically requires us to prove the Central Limit Theorem. We have
 #### Assignment 4
 The assignment basically requires us to find Power of an experiments. We have the file named 4.r which has the final code which can be readily implemented. We have t ouse the concepts of Hypothsis Testing to calculate the power of the experiment. We have to import the ```.csv``` file provided to us and use that data to conduct the experiment.
 
+The concepts covered are basics of Machine Learning and Deep Learning concepts.
+
 ## Open for PR(s)
